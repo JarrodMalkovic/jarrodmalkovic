@@ -1,4 +1,4 @@
-### Hey! I'm [Jarrod](https://www.jarrodmalkovic.com/) 👋🏼
+### Hey! I'm [Jarrod](https://www.jarrodmalkovic.com/) 👋🏻
 
 <div style="min-height: 100px;">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=dreamer133769&redirect=true">
